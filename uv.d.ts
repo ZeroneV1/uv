@@ -5,7 +5,7 @@ export type UltravioletCtor = typeof Ultraviolet;
 export type UVClientCtor = typeof UVClient;
 
 /**
- * The proxy part of the URL.
+ * The part of the URL.
  */
 type Coded = string;
 
